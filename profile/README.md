@@ -16,3 +16,5 @@
 - Ability to bulk upload data from CSV, Excel
 - Celery beat for updating the status of the emails
 - JWT Authentication for secure API access
+
+visit: http://bulkmailer.suhaila.tech/
