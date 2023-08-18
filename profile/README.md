@@ -17,4 +17,4 @@
 - Celery beat for updating the status of the emails
 - JWT Authentication for secure API access
 
-visit: https://bulkmailer.suhaila.tech/
+visit: https://bulkmailer.suhaila.tech/  ( **Currently in active development** )
